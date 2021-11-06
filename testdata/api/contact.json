@@ -1,0 +1,12 @@
+{
+    "firstName": "raghu",
+    "lastName": "gowda",
+    "email": "raghu@yopmail.com",
+    "phone": "9912121212",
+    "street1": "345,3rd stage",
+    "street2": "basaveshvarnagar",
+    "city": "bangaluru",
+    "stateProvince": "string",
+    "postalCode": "560089",
+    "country": "india"
+  }

@@ -1,0 +1,17 @@
+{
+"title":"My Store",
+"email":"raghu@gmail.com",
+"id":"ashuu1",
+"message":"test Customer service",
+"success":"Your message has been successfully sent to our team.",
+"totalamount":"$151.48",
+"amount":[
+    "$16.51",
+    "$27.00",
+    "$26.00",
+    "$50.99",
+    "$28.98",
+    "$30.51"
+]
+
+}
